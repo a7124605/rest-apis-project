@@ -22,11 +22,3 @@ This project is built upon the foundation of the Udemy course "REST APIs with Fl
    - Utilized Docker to simplify deployment, enabling efficient and consistent application deployment.
 8. **Git for Version Control**:
    - Employed Git for precise version control, enabling collaborative development and code management.
-9. **Deployment to Render.com Cloud Platform**:
-   - Successfully deployed the application to the Render.com cloud platform, making it accessible to the public.
-
-For a comprehensive understanding of each functionality, explore the detailed code implementations in the respective sections of the project.
-
----
-
-Feel free to integrate this formatted content into your README.md for easy readability and review by interviewers.
