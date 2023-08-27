@@ -1,1 +1,0 @@
-conda activate /Users/chris/Desktop/RestApi_Flask_Python/.venv
