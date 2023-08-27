@@ -1,6 +1,10 @@
+.env
 .venv
 .vscode
 __pycache__
 data.db
 *.pyc
 .DS_Store
+Ch3_Flask_REST.ipynb
+how_to_activate_env.txt
+OO_tutorial.ipynb
